@@ -2,6 +2,6 @@
 
 22 - adicionado opçao para colocar data. 
 
-3 - adicionado opção para colocar nome de usuário.
+33 - adicionado opção para colocar nome de usuário.
 
 4 - adicionado opção para colocar endereço de usuário.  
